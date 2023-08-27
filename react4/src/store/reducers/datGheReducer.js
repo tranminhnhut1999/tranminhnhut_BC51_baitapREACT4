@@ -5,15 +5,15 @@ const DEFAUT_STATE = {
 };
 
 export const DatGheReducer = (state = DEFAUT_STATE, action) => {
-  console.log(action);
+  // console.log(action);
   switch (action.type) {
     case DAT_GHE: {
       const data = JSON.parse(JSON.stringify(state.danhSachGhe));
 
       const index = data.findIndex(
-        (element) => element.hang === action.payload.hang
+        (element) => element.soGhe === action.payload.soGhe
       );
-      data[index].daDat = !data[index].daDat;
+      data[index].danhSachGhe.daDat = !data[index].danhSachGhe.daDat;
       state.danhSachGhe = data;
       break;
     }

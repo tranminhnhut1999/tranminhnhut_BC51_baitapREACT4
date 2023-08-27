@@ -1,23 +1,5 @@
 [ 
       {
-      "hang": "", 
-      "danhSachGhe": [
-        {"soGhe":"1","gia":0},
-        {"soGhe":"2","gia":0},
-        {"soGhe":"3","gia":0},
-        {"soGhe":"4","gia":0},
-        {"soGhe":"5","gia":0},
-        {"soGhe":"6","gia":0},
-        {"soGhe":"7","gia":0},
-        {"soGhe":"8","gia":0},
-        {"soGhe":"9","gia":0},
-        {"soGhe":"10","gia":0},
-        {"soGhe":"11","gia":0},
-        {"soGhe":"12","gia":0}
-      ] 
-    }
-    ,
-    {
       "hang": "A", 
       "danhSachGhe": [
         {"soGhe":"A1","gia":75000,"daDat":false},
@@ -30,10 +12,11 @@
         {"soGhe":"A8","gia":75000,"daDat":false},
         {"soGhe":"A9","gia":75000,"daDat":false},
         {"soGhe":"A10","gia":75000,"daDat":false},
-        {"soGhe":"A11","gia":0,"daDat":true},
-        {"soGhe":"A12","gia":0,"daDat":true}
+        {"soGhe":"A11","gia":75000,"daDat":false},
+        {"soGhe":"A12","gia":75000,"daDat":false}
       ] 
-    },
+    }
+    ,
     {
       "hang": "B", 
       "danhSachGhe": [
@@ -67,7 +50,8 @@
         {"soGhe":"C11","gia":75000,"daDat":false},
         {"soGhe":"C12","gia":75000,"daDat":false}
       ] 
-    }, {
+    },
+    {
       "hang": "D", 
       "danhSachGhe": [
         {"soGhe":"D1","gia":75000,"daDat":false},
@@ -83,7 +67,7 @@
         {"soGhe":"D11","gia":75000,"daDat":false},
         {"soGhe":"D12","gia":75000,"daDat":false}
       ] 
-    },{
+    }, {
       "hang": "E", 
       "danhSachGhe": [
         {"soGhe":"E1","gia":75000,"daDat":false},
@@ -178,6 +162,22 @@
         {"soGhe":"J10","gia":75000,"daDat":false},
         {"soGhe":"J11","gia":75000,"daDat":false},
         {"soGhe":"J12","gia":75000,"daDat":false}
+      ] 
+    },{
+      "hang": "K", 
+      "danhSachGhe": [
+        {"soGhe":"K1","gia":75000,"daDat":false},
+        {"soGhe":"K2","gia":75000,"daDat":false},
+        {"soGhe":"K3","gia":75000,"daDat":false},
+        {"soGhe":"K4","gia":75000,"daDat":false},
+        {"soGhe":"K5","gia":75000,"daDat":false},
+        {"soGhe":"K6","gia":75000,"daDat":false},
+        {"soGhe":"K7","gia":75000,"daDat":false},
+        {"soGhe":"K8","gia":75000,"daDat":false},
+        {"soGhe":"K9","gia":75000,"daDat":false},
+        {"soGhe":"K10","gia":75000,"daDat":false},
+        {"soGhe":"K11","gia":75000,"daDat":false},
+        {"soGhe":"K12","gia":75000,"daDat":false}
       ] 
     }
   
